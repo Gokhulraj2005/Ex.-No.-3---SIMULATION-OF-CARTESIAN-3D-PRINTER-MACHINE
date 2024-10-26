@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/Gokhulraj2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849253/039108a5-d259-442c-b5d0-37e082167527)
 
-### Name: Thamizh kumaran 
-### Register Number: 212223240166
+### Name: GOKHULRAJ V 
+### Register Number: 212223230064
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
